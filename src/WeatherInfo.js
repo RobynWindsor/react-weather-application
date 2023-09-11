@@ -10,7 +10,7 @@ export default function weatherInfo(props) {
         <WeatherTemperature celsius={props.data.temperature} />
 
         <div className="weatherIcon">
-          <WeatherIcon code={props.data.icon} />
+          <WeatherIcon code={props.data.icon} size={110} />
         </div>
 
         <h5 className="description">{props.data.description}</h5>
@@ -22,19 +22,21 @@ export default function weatherInfo(props) {
         </h3>
       </div>
       <div className="details">
-        <div className="col-6">
-          <div>
-            <div className="humidityWrapper">
-              <p className="humidity">{Math.round(props.data.humidity)}%</p>
-              <p>Humidity</p>
+        <div className="row">
+          <div className="col">
+            <div>
+              <div className="humidityWrapper">
+                <p className="humidity">{Math.round(props.data.humidity)}%</p>
+                <p>Humidity</p>
+              </div>
             </div>
           </div>
-        </div>
-        <div className="col-6">
-          <div>
-            <div className="windWrapper">
-              <p className="wind">{Math.round(props.data.wind)} km/h</p>
-              <p>Wind Speed</p>
+          <div className="col">
+            <div>
+              <div className="windWrapper">
+                <p className="wind">{Math.round(props.data.wind)} km/h</p>
+                <p>Wind Speed</p>
+              </div>
             </div>
           </div>
         </div>
