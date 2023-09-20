@@ -21,6 +21,18 @@ p {
   margin-bottom: 10px;
 }
 
+@media (max-width: 576px) {
+  .temperature {
+    font-size: 40px;
+  }
+  .unit {
+    font-size: 40px;
+  }
+  .fahrenheit {
+    font-size: 40px;
+  }
+}
+
 .card {
   width: 90%;
   max-width: 800px;
