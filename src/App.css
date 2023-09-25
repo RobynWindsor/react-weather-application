@@ -6,11 +6,11 @@
 }
 
 body {
-  background: white;
+  background: #1f4969;
 }
 
 small {
-  color: #555;
+  color: #d2dbe1;
 }
 a {
   color: #f8d210;
@@ -21,7 +21,7 @@ p {
   margin-bottom: 10px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 576px) {v
   .temperature {
     font-size: 40px;
   }
