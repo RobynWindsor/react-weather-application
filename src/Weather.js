@@ -54,7 +54,13 @@ export default function Weather(props) {
                 onChange={handleCityChange}
               />
 
-              <button type="button" className="btn btn-info" alt="search">
+              <button
+                type="submit"
+                value="search"
+                className="btn btn-info"
+                alt="search"
+                onClick={handleSubmit}
+              >
                 <img src={img} alt="search"></img>
               </button>
             </div>
