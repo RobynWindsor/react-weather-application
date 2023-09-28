@@ -23,11 +23,11 @@ p {
 }
 
 .card {
-  width: 90%;
-  max-width: 850px;
+  width: 100%;
+  max-width: 900px;
   background: #355c7d;
   color: white;
-  margin: 100px auto 0;
+  margin: 40px auto 0;
   border-radius: 20px;
   padding: 20px 10px;
   text-align: center;
@@ -37,7 +37,6 @@ p {
   color: #f8d210;
 }
 .searching {
-  width: 100%;
   display: flex;
   padding: 0 0 20px;
 }
@@ -48,11 +47,11 @@ p {
   background: white;
   color: #555;
   padding: 10px 25px;
-  height: 60px;
+  height: 40px;
   border-radius: 10px;
   flex: 1;
   margin-right: 16px;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .searching button {
@@ -62,7 +61,7 @@ p {
   color: #555;
   border-radius: 10px;
   width: 60px;
-  height: 60px;
+  height: 40px;
   cursor: pointer;
   font-size: 13px;
   padding: 1px;
