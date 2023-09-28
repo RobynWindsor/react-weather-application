@@ -7,6 +7,7 @@
 
 body {
   background: #1f4969;
+  padding-bottom: 20px;
 }
 
 small {
@@ -23,12 +24,12 @@ p {
 
 .card {
   width: 90%;
-  max-width: 800px;
+  max-width: 850px;
   background: #355c7d;
   color: white;
   margin: 100px auto 0;
   border-radius: 20px;
-  padding: 40px 35px;
+  padding: 20px 10px;
   text-align: center;
   opacity: 0.8;
 }
@@ -88,7 +89,7 @@ p {
 .details {
   display: flex;
   justify-content: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
   padding-top: 15px;
 }
 
