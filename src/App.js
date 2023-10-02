@@ -10,7 +10,7 @@ export default function App() {
         <div class="gitLink">
           <small>
             <a
-              href="https://github.com/Robyn-web/MyWeatherApp"
+              href="https://github.com/RobynWindsor/react_two"
               target="_blank"
               rel="noopener noreferrer"
             >
