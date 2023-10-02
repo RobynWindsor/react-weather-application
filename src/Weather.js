@@ -57,7 +57,7 @@ export default function Weather(props) {
               <button
                 type="submit"
                 value="search"
-                className="btn btn-info"
+                className="btn btn-warning"
                 alt="search"
                 onClick={handleSubmit}
               >
