@@ -7,8 +7,8 @@
   opacity: 0.6;
   margin-left: 5px;
 }
-@media (max-width: 576px) {
+@media (min-width: 767px) {
   .WeatherForecast {
-    font-size: 10px;
+    font-size: 25px;
   }
 }
