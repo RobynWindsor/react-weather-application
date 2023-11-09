@@ -1,6 +1,6 @@
 # React Weather Application
 
-Welcome to the React Weather Application!
+Welcome to my React Weather Application!
 This application provides real-time weather information based on user input.
 Whether you're planning a trip or just curious about the current weather, this app has got you covered.
 
@@ -41,13 +41,25 @@ To run the application locally, follow these steps;
 
 1. Clone the repository to your local machine.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![git clone](https://github.com/RobynWindsor/react_two/assets/127926809/5a60a7ba-7054-4201-97f2-fb8291faa0f5)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Navigate to the project directory.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![git cd](https://github.com/RobynWindsor/react_two/assets/127926809/3bde3acf-f56f-48eb-8450-acf44499772a)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Install dependencies.
+
+![git npm install](https://github.com/RobynWindsor/react_two/assets/127926809/c9b926ae-7113-4ba5-bc86-11d99930b690)
+
+4. Obtain an API key from OpenWeatherMap and replace the placeholder in the code with your own key.
+
+5. Start the development server.
+
+![git npm start](https://github.com/RobynWindsor/react_two/assets/127926809/8755f6d1-bbc8-4d75-94b5-d087cd98cb51)
+
+## Contributing
+
+If you'd like to contribute to the project, feel free to submit a pull request. Bug reports and feature requests are also welcome in the issue tracker.
 
 ## Learn More
 
@@ -55,26 +67,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy exploring the weather with my React Weather Application! If you have any questions or feedback, feel free to reach out. Happy coding!
