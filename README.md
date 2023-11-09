@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React Weather Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the React Weather Application!
+This application provides real-time weather information based on user input.
+Whether you're planning a trip or just curious about the current weather, this app has got you covered.
 
 ## Available Scripts
 
