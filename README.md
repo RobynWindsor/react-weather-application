@@ -59,7 +59,7 @@ To run the application locally, follow these steps;
 
 ## Contributing
 
-If you'd like to contribute to the project, feel free to submit a pull request. Bug reports and feature requests are also welcome in the issue tracker.
+If you'd like to contribute to my project, feel free to submit a pull request. Bug reports and feature requests are also welcome in the issue tracker.
 
 ## Learn More
 
