@@ -4,6 +4,8 @@ Welcome to my React Weather Application!
 This application provides real-time weather information based on user input.
 Whether you're planning a trip or just curious about the current weather, this app has got you covered.
 
+![React-weather-app](https://github.com/RobynWindsor/react_two/assets/127926809/cb9aa8f3-b618-4a5a-b03d-d8e94fa6bf58)
+
 ## Features
 
 In the project directory, you can run:
