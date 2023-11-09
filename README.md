@@ -4,34 +4,42 @@ Welcome to the React Weather Application!
 This application provides real-time weather information based on user input.
 Whether you're planning a trip or just curious about the current weather, this app has got you covered.
 
-## Available Scripts
+## Features
 
 In the project directory, you can run:
 
-### `npm start`
+#### Current Weather:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Get up-to-date information about the current temperature, humidity, wind speed, and more.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Forecast:
 
-### `npm test`
+Automatically detects your location for quick weather updates, or manually enter a location of your choice.
+Technologies Use
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Location-based:
 
-### `npm run build`
+Automatically detects your location for quick weather updates, or manually enter a location of your choice.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### React
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Built with the popular JavaScript library for building user interfaces.
 
-### `npm run eject`
+### OpenWeatherMap API
+
+Utilizes the OpenWeatherMap API to fetch accurate and reliable data.
+
+### Responsive Design
+
+Ensures seamless experience across various devices and screen sizes.
+
+## Getting Started
+
+To run the application locally, follow these steps;
+
+1. Clone the repository to your local machine.
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
